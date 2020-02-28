@@ -1,0 +1,87 @@
+.margin-down{
+    padding-bottom: 50px;
+}
+.nav-background{
+    background-color: #ffffff!important;
+}
+.logo{
+    width: 70%;
+}
+.carousel-indicators li{
+    background-color: orange;
+    height: 7px;
+}
+.button{
+    background-color: black;
+}
+.col-md-6 h3,p,button{
+    padding-bottom: 20px;
+}
+.col-md-6 p{
+    color: gray;
+}
+.picture{
+    padding: 20px;
+}
+.see-all{
+    text-decoration: none !important;
+    color: orange !important;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    padding-bottom: 30px;
+
+}
+.card-footer h6,button{
+    padding-bottom: 10px;
+    text-align: center;
+}
+.card img{
+    padding: 20px;
+}
+.card{
+    border:none;
+    box-shadow: 0px 5px 10px lightgrey;
+    border-radius: 20px;
+}
+.card-body h5,p{
+    text-align: center;
+}
+.small-line{
+    height: 6px;
+    width: 100px;
+    background-image: linear-gradient(90deg, #FFC220, #FF9C35);
+    border-radius: 10px;
+}
+.cata-bottom{
+    margin-bottom: 50px;
+}
+.cat-img{
+    width: 100%;
+}
+
+.cat-around{
+    background-color: white;
+    box-shadow: 10px 20px 30px lightgray;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.cad-img{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.h6{
+    text-align: center;
+    margin-top: 35px;
+}
+.small{
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+
+
